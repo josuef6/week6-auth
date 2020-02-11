@@ -1,0 +1,5 @@
+secrets.py
+__pycache__
+.DS_Store
+api_search.json
+practice_newsapi.py
